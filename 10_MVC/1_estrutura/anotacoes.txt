@@ -1,0 +1,6 @@
+npm init -y
+
+npm install express express-handlebars mysql2 sequelize nodemon
+
+packge.json
+    "start": "nodemon ./index.js localhost 3000"
